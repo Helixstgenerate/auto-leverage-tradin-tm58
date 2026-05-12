@@ -1,4 +1,4 @@
-# 
+# automatic auto-leverage trading bot Plugin | take-profit + slippage-control is the best auto-leverage trading bot, featuring take-profit and slippage-control. Smart, fast, and
 
 
 
